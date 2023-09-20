@@ -6,3 +6,4 @@ My name is Vu Phi Duc Anh
 21080304
 ## Level 2 heading again
 lalala
+![](image/ngu.jpg)
